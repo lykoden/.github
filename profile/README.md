@@ -1,4 +1,12 @@
-## Bonjour 👋
+<h1 align="center">Lykoden</h1><br>
+
+<p align="center">
+  <a href="https://www.lykoden.com/">
+    <img src="https://github.com/lykoden/.github/blob/master/profile/Lykoden.png?raw=true" alt="Lykoden logo" height="140">
+  </a>
+</p>
+
+----
 
 Bienvenue sur l'organisation **Lykoden** !
 
